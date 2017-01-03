@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = 'ThePerfectApp'
   s.version      = '4.1.6'
-  s.summary      = 'App distribution and crashlytics.'
+  s.summary      = 'App distribution and crash analytics.'
 
   s.description  = <<-DESC
   TPA is the world leading tool for app distribution to mobile devices.
