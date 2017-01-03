@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = 'http://theperfectapp.com/'
 
-  s.license      = { text: 'Copyright 2016 ThePerfectApp', type: 'Commercial' }
+  s.license      = { text: 'Copyright 2017 ThePerfectApp', type: 'Commercial' }
 
   s.authors      = { 'ThePerfectApp' => 'support@theperfectapp.com' }
 
